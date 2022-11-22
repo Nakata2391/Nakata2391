@@ -1,4 +1,5 @@
-{
+{ext install vscode-java-debug
+
     "recommendations": [
         "browserstackcom.nightwatch"
     ]
